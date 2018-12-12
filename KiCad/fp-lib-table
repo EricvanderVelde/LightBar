@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name libraries)(type KiCad)(uri /home/eric/Documents/Kicad/myKicadLibs/modules/libraries.pretty)(options "")(descr ""))
+  (lib (name WS2812B)(type KiCad)(uri /home/eric/Documents/Kicad/libs/WS2812B.pretty)(options "")(descr ""))
+)
